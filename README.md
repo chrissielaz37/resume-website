@@ -35,7 +35,8 @@
     }
 
     h2.section-title {
-      border-bottom: 3px solid #fda085;
+      border-bottom: 3px solid #800000; /* Maroon underline */
+      color: #800000; /* Maroon title text */
       display: inline-block;
       margin-bottom: 30px;
       font-weight: 600;
@@ -50,7 +51,7 @@
     }
 
     a {
-      color: #fda085;
+      color: #800000;
       text-decoration: none;
     }
 
@@ -65,7 +66,7 @@
 
     ul li::before {
       content: "• ";
-      color: #fda085;
+      color: #800000;
     }
   </style>
 </head>
@@ -116,11 +117,14 @@
     <div class="container">
       <h2 class="section-title">Skills</h2>
       <ul>
-        <li>Fluent in Greek</li>
-        <li>Excellent communication and interpersonal skills</li>
-        <li>Social media strategy & content creation</li>
-        <li>Marketing campaign management</li>
-        <li>Public relations & stakeholder engagement</li>
+        <li>Proven ability to deliver outstanding customer service and build strong rapport with clients.</li>
+        <li>Committed to ensuring customer satisfaction and loyalty.</li>
+        <li>Extensive experience in effectively selling and promoting a diverse range of products and services.</li>
+        <li>Adaptable and resilient, able to work in fast-paced and high-volume environments.</li>
+        <li>Strong organizational and prioritization skills, managing multiple tasks and deadlines efficiently.</li>
+        <li>Proficient in computer skills and literacy.</li>
+        <li>Strong verbal and communication skills, problem-solving and teamwork abilities.</li>
+        <li>Fluent in Greek and English.</li>
       </ul>
     </div>
   </section>
